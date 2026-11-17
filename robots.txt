@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlotterestorationco.com/sitemap.xml
